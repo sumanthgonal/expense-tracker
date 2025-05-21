@@ -1,5 +1,5 @@
 # Expense Tracker with Cross-Platform Sync
-
+for live link "https://zippy-marzipan-42ff36.netlify.app/"
 This is a cross-platform expense tracker application that works on both web (React) and mobile (React Native) platforms with a synchronized backend.
 
 ## Tech Stack
